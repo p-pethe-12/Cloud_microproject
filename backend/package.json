@@ -1,0 +1,13 @@
+{
+  "name": "panchayat-supabase-app",
+  "version": "1.0.0",
+  "description": "Nagpur district grievance platform powered by Supabase",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

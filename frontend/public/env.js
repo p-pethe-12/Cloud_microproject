@@ -1,0 +1,4 @@
+window.__APP_ENV__ = {
+  SUPABASE_URL: "https://cvhkqbtflqzvugzadzwv.supabase.co",
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN2aGtxYnRmbHF6dnVnemFkend2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ2OTU5OTEsImV4cCI6MjA5MDI3MTk5MX0.P1iOPZrvbbFUXjh45a1O8nwcaRypy01G8x2fKb3tt4c",
+};

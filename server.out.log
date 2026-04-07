@@ -1,0 +1,5 @@
+
+> panchayat-supabase-app@1.0.0 start
+> node src/server.js
+
+Panchayat app running at http://localhost:3000
